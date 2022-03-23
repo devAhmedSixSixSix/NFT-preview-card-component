@@ -111,13 +111,4 @@ body {
   color: hsl(215, 51%, 70%);
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  color: #fff;
-  padding: 20px 0;
-  position: absolute;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
+
